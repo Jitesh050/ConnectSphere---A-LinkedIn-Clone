@@ -1,0 +1,5 @@
+{
+  "name": "ConnectSphere - A LinkedIn Clone",
+  "description": "A simple social media web application where users can sign up, log in, create posts with text and images, and view a feed of posts from all other users. It includes features like liking, editing, and deleting posts.",
+  "requestFramePermissions": []
+}
